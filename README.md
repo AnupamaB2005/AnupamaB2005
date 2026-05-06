@@ -98,7 +98,7 @@ AI/ML Internship Offer — Datavalley
 
 🔗 GitHub
 
-[Add Your GitHub Profile Link]
+https://github.com/AnupamaB2005
 
 🔗 LinkedIn
 
