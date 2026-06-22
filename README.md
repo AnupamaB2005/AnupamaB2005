@@ -62,7 +62,7 @@ MySQL
 
 💼 Experience
 
-🔹 AI/ML Intern — Datavalley (April 2026 - present)
+🔹 AI/ML Intern — Data valley (April 2026 - present)
 Working on AI/ML-based intelligent systems and real-world problem-solving applications.
 Developing Machine Learning and Deep Learning models for predictive analytics and automation.
 Building interactive AI applications using Streamlit and Python.
